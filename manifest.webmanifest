@@ -1,0 +1,20 @@
+{
+    "name": "Tetris Neon - Sincronía Cyberpunk",
+    "short_name": "Tetris Neon",
+    "description": "El clásico Tetris con estética synthwave. Juega en móvil y PC, incluso sin conexión.",
+    "id": "./",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "display_override": ["fullscreen", "standalone"],
+    "orientation": "portrait",
+    "background_color": "#05050b",
+    "theme_color": "#05050b",
+    "lang": "es",
+    "categories": ["games", "entertainment"],
+    "icons": [
+        { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+        { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+        { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
